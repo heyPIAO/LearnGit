@@ -1,0 +1,4 @@
+This is a file to test the operation of deletion in git.
+
+
+==== Hello Deletion ====
